@@ -19,9 +19,9 @@ Python<br>
 
 Reproduce the results:
 ----------------------
-5001_individual_project.ipynb will output a submit.csv that predicting the results. 
+Running 5001_individual_project.ipynb will output a submit.csv that predicting the results. 
 
-Code composition
+Code composition:
 ----------------
 ##### Dataset: Data/train.csv, Data/test.csv, Data/sampleSubmission.csv <br>
 ##### Main function: Run the speed_prediction_final.ipynb <br>
